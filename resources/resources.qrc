@@ -1,0 +1,55 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>back.png</file>
+    <file>edit.png</file>
+    <file>open.png</file>
+    <file>pause.ico</file>
+    <file>play.ico</file>
+    <file>fbx.png</file>
+    <file>obj.png</file>
+    <file>folder.png</file>
+    <file>alembic.png</file>
+    <file>camera.png</file>
+    <file>cube.png</file>
+    <file>folder_project.ico</file>
+    <file>ma.png</file>
+    <file>movie.png</file>
+    <file>ico_blender.png</file>
+    <file>ico_maya.png</file>
+    <file>step.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>images/anim_blast.png</file>
+    <file>images/anim_cog.png</file>
+    <file>images/anim_data.png</file>
+    <file>images/animation.png</file>
+    <file>images/cam.png</file>
+    <file>images/char.png</file>
+    <file>images/cog.png</file>
+    <file>images/env.png</file>
+    <file>images/folder.png</file>
+    <file>images/load.png</file>
+    <file>images/man_backup.png</file>
+    <file>images/manager.png</file>
+    <file>images/MayaStartupImage.png</file>
+    <file>images/mbl.png</file>
+    <file>images/modeling.png</file>
+    <file>images/mtr.png</file>
+    <file>images/proj_cog.png</file>
+    <file>images/proj_folder.png</file>
+    <file>images/project.png</file>
+    <file>images/prop.png</file>
+    <file>images/proxy.png</file>
+    <file>images/pub_alembic.png</file>
+    <file>images/pub_cam.png</file>
+    <file>images/pub_file.png</file>
+    <file>images/publish.png</file>
+    <file>images/reload.png</file>
+    <file>images/rigging.png</file>
+    <file>images/rrf.png</file>
+    <file>images/saving.png</file>
+    <file>images/shot.png</file>
+    <file>images/snap.png</file>
+    <file>images/stl.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,220 @@
+- asset: Arlo
+  asset_type: 00_character
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Model
+  type: asset
+  uuid: d5ba08d5-36ec-4d1d-a141-622925436872
+
+- asset: Fazendeira
+  asset_type: 00_character
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Model
+  type: asset
+  uuid: 4a1806bd-cc13-4b90-9568-d5f60efdf106
+
+- asset: Fazendeiro
+  asset_type: 00_character
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Model
+  type: asset
+  uuid: 581a931d-170f-4248-9a3e-3db62c2ce6cc
+
+- asset: Ginger
+  asset_type: 00_character
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Model
+  type: asset
+  uuid: 602f2724-15db-4070-9abd-ca29d226f887
+
+- asset: Capim
+  asset_type: 01_prop
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Rig
+  type: asset
+  uuid: b7fb835a-ff37-4921-90f6-ddcbf65659b0
+
+- asset: Cevada
+  asset_type: 01_prop
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Rig
+  type: asset
+  uuid: be2414d2-7e26-4f56-b2e5-dfdab74a8a6a
+
+- asset: Flor
+  asset_type: 01_prop
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Rig
+  type: asset
+  uuid: 61314db6-f339-4c5b-b092-07993bc67875
+
+- asset: Abelha
+  asset_type: 02_animals
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Rig
+  type: asset
+  uuid: 10285468-60f6-4fa7-98ae-fcba8b859bd4
+
+- asset: Besouro
+  asset_type: 02_animals
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Rig
+  type: asset
+  uuid: 9eec8bcd-b71a-4110-86bd-6fc080f53ebc
+
+- asset: Borboleta
+  asset_type: 02_animals
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Rig
+  type: asset
+  uuid: a540e825-f92c-44e9-895c-ac0c71ae5c46
+
+- asset: Formiga
+  asset_type: 02_animals
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Rig
+  type: asset
+  uuid: 182b8b5b-6aaa-4364-a88c-df387d5a8410
+
+- asset: Galinha
+  asset_type: 02_animals
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Rig
+  type: asset
+  uuid: b947d628-9656-4c4d-b794-c710643a8b14
+
+- asset: Joaninha
+  asset_type: 02_animals
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Rig
+  type: asset
+  uuid: b728b922-9625-49c0-925a-a6c755d537be
+
+- asset: Minhoca
+  asset_type: 02_animals
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Rig
+  type: asset
+  uuid: cc3c2d69-08f4-4ab7-9774-3c5f494d093f
+
+- asset: Peixe
+  asset_type: 02_animals
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Model
+  type: asset
+  uuid: 9752545e-9695-4464-9e67-3d8ab9d98614
+
+- asset: Tatu
+  asset_type: 02_animals
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Rig
+  type: asset
+  uuid: 83832537-e053-48de-bc94-d2e103d9386f
+
+- asset: Vaca
+  asset_type: 02_animals
+  frame_range:
+    - 1
+    - 144
+  progress:
+    LookDev: rts
+    Model: rts
+    Rig: rts
+  step: Rig
+  type: asset
+  uuid: 56619752-7266-4946-8925-afa10335d233

@@ -1,0 +1,540 @@
+- shot: SHOT_005
+  animator: Gabriel
+  frame_range:
+    - 1
+    - 469
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_015D
+  animator: Gabriel
+  frame_range:
+    - 1
+    - 65
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_020
+  animator: Gabriel
+  frame_range:
+    - 1
+    - 67
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_025
+  animator: Fernando Telles
+  frame_range:
+    - 1
+    - 35
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_025B
+  animator: Fernando Telles
+  frame_range:
+    - 1
+    - 40
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_030
+  animator: Francielle
+  frame_range:
+    - 1
+    - 30
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_035
+  animator: Francielle
+  frame_range:
+    - 1
+    - 40
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_040
+  animator: Francielle
+  frame_range:
+    - 1
+    - 40
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_045
+  animator: Jonathan Edward
+  frame_range:
+    - 1
+    - 50
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_050
+  animator: Jonathan Edward
+  frame_range:
+    - 1
+    - 60
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_055
+  animator: Jonathan Edward
+  frame_range:
+    - 1
+    - 80
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_060
+  animator: Jonathan Edward
+  frame_range:
+    - 1
+    - 58
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_065
+  animator: Jonathan Edward
+  frame_range:
+    - 1
+    - 33
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_067
+  animator: Leo Paul
+  frame_range:
+    - 1
+    - 94
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_075
+  animator: Leo Paul
+  frame_range:
+    - 1
+    - 191
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_080
+  animator: Marcio Kakuno
+  frame_range:
+    - 1
+    - 130
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_085
+  animator: Bruna
+  frame_range:
+    - 1
+    - 40
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_090
+  animator: null
+  frame_range:
+    - 1
+    - 30
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_090B
+  animator: null
+  frame_range:
+    - 1
+    - 45
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_095
+  animator: Bruna
+  frame_range:
+    - 1
+    - 62
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_100
+  animator: Bruna
+  frame_range:
+    - 1
+    - 50
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_102
+  animator: Bruna
+  frame_range:
+    - 1
+    - 120
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_125
+  animator: Diego de Paula
+  frame_range:
+    - 1
+    - 169
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_130
+  animator: Diego de PAula
+  frame_range:
+    - 1
+    - 43
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_132
+  animator: Diego de PAula
+  frame_range:
+    - 1
+    - 55
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_158
+  animator: null
+  frame_range:
+    - 1
+    - 30
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_159
+  animator: Gustavo Bertozzi
+  frame_range:
+    - 10
+    - 67
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_159B
+  animator: null
+  frame_range:
+    - 1
+    - 40
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_161
+  animator: null
+  frame_range:
+    - 1
+    - 45
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_162
+  animator: Gustavo Bertozzi
+  frame_range:
+    - 1
+    - 40
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_164
+  animator: null
+  frame_range:
+    - 1
+    - 65
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_166
+  animator: Gustavo Bertozzi
+  frame_range:
+    - 1
+    - 40
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_167
+  animator: Gustavo Bertozzi
+  frame_range:
+    - 1
+    - 30
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_170
+  animator: Francielle
+  frame_range:
+    - 1
+    - 30
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_175
+  animator: Francielle
+  frame_range:
+    - 1
+    - 75
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_176
+  animator: Fernando Donizetti
+  frame_range:
+    - 1
+    - 75
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_176C
+  animator: Fernando Donizetti
+  frame_range:
+    - 1
+    - 99
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_177
+  animator: Fernando Donizetti
+  frame_range:
+    - 1
+    - 30
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_178
+  animator: Fernando Donizetti
+  frame_range:
+    - 1
+    - 40
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_179
+  animator: Fernando Donizetti
+  frame_range:
+    - 1
+    - 50
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_185
+  animator: Fernando Tavolaro
+  frame_range:
+    - 1
+    - 30
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_185B
+  animator: Fernando Tavolaro
+  frame_range:
+    - 1
+    - 40
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_186
+  animator: Fernando Tavolaro
+  frame_range:
+    - 1
+    - 40
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_187
+  animator: Marcio Kakuno
+  frame_range:
+    - 1
+    - 141
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot
+- shot: SHOT_188
+  animator: Marcio Kakuno
+  frame_range:
+    - 1
+    - 461
+  progress:
+    Animation: rts
+    Assembly: rts
+    Light: rts
+  sequence: SC01
+  step: Animation
+  type: shot

@@ -1,0 +1,27 @@
+- id: maya_2022
+  ext: ma
+  type: _maya
+  name: Maya 2022
+  version: 2022
+  path: C:\Program Files\Autodesk\Maya2022\bin\maya.exe
+
+- id: maya_2023
+  ext: ma
+  type: _maya
+  version: 2023
+  name: Maya 2023
+  path: C:\Program Files\Autodesk\Maya2023\bin\maya.exe
+
+- id: blender_362
+  ext: blend
+  type: _blender
+  version: 3.6.2
+  name: Blender 3.6.2
+  path: C:\Program Files\Blender Foundation\Blender 3.6\blender.exe
+
+- id: cinema_r25
+  ext: c4d
+  type: _cinema
+  version: R25
+  name: Cinema4D R25
+  path: C:\Program Files\Maxon Cinema 4D R25\Cinema 4D.exe

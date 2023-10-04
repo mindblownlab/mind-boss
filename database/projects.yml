@@ -1,0 +1,104 @@
+- name: 658_VER_NUT_NUTRO
+  path: B:\658_VER_NUT_nutro animation\2.PROD\3.3D\9.MAYA
+  path_maya: B:\658_VER_NUT_nutro animation\2.PROD\3.3D\9.MAYA
+  path_blender: B:\658_VER_NUT_nutro animation\2.PROD\3.3D\5.BLENDER\3.PIPE
+  render:
+    name: redshift
+    plugin: redshift4maya
+  resolution:
+    - 3000
+    - 3000
+  current_status: rts
+  fps: 24
+  aspect: 1
+  frame_range:
+    - 1
+    - 120
+  steps:
+    assets:
+      - Model
+      - LookDev
+      - Rig
+    shots:
+      - Animation
+      - Assembly
+      - Light
+  status:
+    - rts
+    - in progress
+    - polishing
+    - standby
+  playblast:
+    format:
+      - MP4
+      - MOV
+    resolution:
+      1K_1500:
+        - 1500
+        - 1500
+      HD_1080:
+        - 1920
+        - 1080
+      HD_720:
+        - 1280
+        - 720
+      HD_540:
+        - 960
+        - 540
+    steps:
+      - Story Poses
+      - Blocking
+      - Blocking Plus
+      - Spline/Polish
+      - Final
+
+- name: 2023_PIPE_NEW
+  path: M:\PROJECT\2023\2023_PIPE_NEW
+  path_maya: M:\PROJECT\2023\2023_PIPE_NEW
+  path_blender: null
+  render:
+    name: arnold
+    plugin: mtoa
+  resolution:
+    - 1920
+    - 1080
+  current_status: rts
+  fps: 24
+  aspect: 1
+  frame_range:
+    - 1
+    - 120
+  steps:
+    assets:
+      - Model
+      - LookDev
+      - Rig
+    shots:
+      - Animation
+      - Assembly
+      - Light
+  status:
+    - rts
+    - in progress
+    - polishing
+    - standby
+  playblast:
+    format:
+      - MP4
+      - MOV
+    resolution:
+      HD_1080:
+        - 1920
+        - 1080
+      HD_720:
+        - 1280
+        - 720
+      HD_540:
+        - 960
+        - 540
+    steps:
+      - Story Poses
+      - Blocking
+      - Blocking Plus
+      - Spline/Polish
+      - Final

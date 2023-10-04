@@ -1,0 +1,24 @@
+#DEFINE ROOT PATH
+root_cache: cache
+
+#ASSET ROOT
+root_asset: work/assets
+root_assets_cache: cache/assets
+root_asset_publish: assets
+asset_data: data/assets/{asset_type}/{asset}_data.yml
+asset_work: work/assets/{asset_type}/{asset}/{step}/{ext}/{name}_{step_asset}.v{version}.{ext}
+asset_publish: assets/{asset_type}/{asset}/{step}/{ext}/{name}_{step_asset}.v001.{ext}
+asset_publish_cache: assets/{asset_type}/{asset}/{step}/{ext}/{name}.v001.{ext}
+
+#SHOT ROOT
+root_shot: work/scenes
+root_shot_publish: scenes
+shot_data: data/scenes/{sequence}/{shot}_data.yml
+shot_work: work/scenes/{sequence}/{shot}/{step}/{ext}/{name}_{step_shot}.v{version}.{ext}
+shot_publish: scenes/{sequence}/{shot}/{step}/{ext}/{name}_{step_shot}.v001.{ext}
+shot_publish_cache: cache/{sequence}/{shot}/animation/{name}.abc
+shot_publish_proxy: cache/{sequence}/{shot}/proxy/{name}.abc
+
+#OTHER
+root_playblast: movies
+playblast_review: movies/playblast/Review/{sequence}/{shot}/{name}_blast.v{version}.avi

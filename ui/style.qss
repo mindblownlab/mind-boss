@@ -1,0 +1,145 @@
+*{
+    font-family: "Roboto";
+    font-size:12px;
+}
+
+QTreeWidget{
+    border: none;
+}
+
+QTreeWidget::item{
+    border: none;
+    padding: 5px 10px;
+    background-color: transparent;
+    color:white;
+}
+
+QTreeWidget::item:hover, QTreeWidget::item:selected{
+    background-color: #444444;
+}
+
+QTreeWidget::item:selected{
+    background-color: #303030;
+}
+
+QTabWidget::pane {
+    border:none;
+    padding:0;
+}
+
+QListWidgetItem {
+    border:none;
+    padding:0;
+}
+
+QTabBar::tab {
+    padding: 12px;
+    border-bottom: none;
+    text-align:center;
+    background-color:#2b2b2b;
+    color: white;
+}
+
+QTabBar::tab:hover {
+    color: white;
+}
+
+QTabBar::tab:selected {
+    color: white;
+    border-bottom: none;
+    background-color:#1a1a1a;
+}
+
+#main_widget{
+    background-color:#373737;
+}
+
+QSplitter{
+    background-color:transparent;
+}
+
+QPushButton, QLineEdit, QComboBox, QSpinBox{
+    padding: 7px 10px;
+    border:none;
+    background-color:#2b2b2b;
+    color:white;
+}
+
+QLabel{
+    color:white;
+}
+
+
+QScrollBar:vertical {
+	background: transparent;
+	width: 5px;
+	margin: 0;
+}
+
+QScrollBar::handle:horizontal {
+    background: red;
+    min-width: 5px;
+}
+
+QScrollBar::handle:vertical {
+    background: #343536;
+    min-height: 5px;
+}
+
+QScrollBar::add-page:horizontal, QScrollBar::sub-page:horizontal,
+QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+	background: none;
+}
+
+QScrollBar::add-line:horizontal, QScrollBar::sub-line:horizontal,
+QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {
+      border: none;
+      background: none;
+}
+
+QTreeWidget{
+    padding:0px;
+    margin:0px;
+}
+
+QTreeWidget::branch{border-image: url(none.png);}
+
+QComboBox::drop-down{
+}
+
+QPushButton:pressed {
+    background-color:#D79223;
+	color:#000;
+}
+
+QPushButton:hover {
+    background-color: #D8A95E;
+    color:#000;
+}
+
+
+QTabWidget::pane {
+    border-top: 0px solid #1a1a1a;
+}
+
+QListWidgetItem {
+    border-top: 0px solid #1a1a1a;
+}
+
+QTabBar::tab {
+    padding: 12px;
+    font-size:11.4px;
+    border-bottom: none;
+    text-align:center;
+}
+
+QProgressBar {
+    border: none;
+    background-color: white;
+    height: 1px;
+    font-size: 2px;
+}
+
+QProgressBar::chunk {
+    background-color: #D8A95E;
+}

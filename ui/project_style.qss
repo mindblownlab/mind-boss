@@ -1,0 +1,91 @@
+QTreeWidget{
+    border:none;
+    background-color: #2b2b2b;
+}
+
+QTreeWidget:item{
+    border:none;
+    margin-bottom:2px;
+}
+
+QTreeWidget:item:hover{
+
+}
+
+QPushButton, QLineEdit, QSpinBox, QComboBox {
+    padding:10px;
+    color:white;
+    border:none;
+    background-color:#262626;
+}
+
+*{
+    background-color:#2a2a2a;
+    color:#cccccc;
+}
+
+QPushButton:hover{
+    background-color:#333333;
+}
+
+QProgressBar {
+    border: none;
+    background-color: #444444;
+    height: 1px;
+}
+
+QProgressBar::chunk {
+    background-color: #42a8a3;
+}
+
+QScrollBar:vertical {
+	background: transparent;
+	width: 10px;
+	margin: 0;
+}
+
+QScrollBar::handle:horizontal {
+    background: #343536;
+    min-width: 10px;
+}
+
+QScrollBar::handle:vertical {
+    background: #343536;
+    min-height: 10px;
+}
+
+QScrollBar::add-page:horizontal, QScrollBar::sub-page:horizontal,
+QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+	background: none;
+}
+
+QScrollBar::add-line:horizontal, QScrollBar::sub-line:horizontal,
+QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {
+      border: none;
+      background: none;
+}
+
+QProgressBar {
+    border: none;
+    background-color: #444444;
+    height: 1px;
+    font-size: 2px;
+}
+
+QProgressBar::chunk {
+    background-color: #D8A95E;
+}
+
+#projects,#engines,#tools{
+    background-color: #191919;
+    padding:2px;
+}
+
+#btn_back{
+    padding: 2px;
+    background-color:transparent;
+}
+
+#main_project_item:hover, #main_engine_item:hover{
+    background-color:#414141;
+}
